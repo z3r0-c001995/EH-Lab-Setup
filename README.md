@@ -6,14 +6,14 @@ Setting up a hacking lab is essential for anyone looking to develop ethical hack
 ---
 ## 1. Requirements
 ### Hardware Requirements
-![Hardware Requirements](https://upload.wikimedia.org/wikipedia/commons/6/6a/Computer-hardware.jpg)
+![Hardware Requirements](https://www.maticad.com/wp-content/uploads/2020/09/req_hard-1-1200x878.png)
 - A computer with at least **8GB of RAM** (16GB recommended)
 - A **multi-core processor** (Intel i5/i7 or AMD Ryzen)
 - At least **250GB of storage** (SSD recommended)
 - A stable **internet connection**
 
 ### Software Requirements
-![Software Requirements](https://upload.wikimedia.org/wikipedia/commons/3/35/Linux_Distribution_Timeline.svg)
+![Software Requirements](https://tsh.io/wp-content/uploads/2020/10/testing-software-requirements.jpg)
 - **Virtualization Software:** [VMware Workstation](https://www.vmware.com/) or [VirtualBox](https://www.virtualbox.org/)
 - **Operating Systems:**
   - [**Kali Linux**](https://www.kali.org/downloads/) (primary hacking OS)
@@ -26,7 +26,7 @@ Setting up a hacking lab is essential for anyone looking to develop ethical hack
 ---
 ## 2. Setting Up the Lab
 ### Step 1: Install Virtualization Software
-![Install Virtualization Software](https://upload.wikimedia.org/wikipedia/commons/c/cd/Virtualbox_logo.png)
+![Install Virtualization Software](https://www.accuwebhosting.com/blog/wp-content/uploads/2020/04/hyper-virtualization.jpg)
 1. Download and install [VMware Workstation](https://www.vmware.com/) or [VirtualBox](https://www.virtualbox.org/).
 2. Ensure **virtualization is enabled** in your BIOS settings.
 
