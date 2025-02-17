@@ -44,7 +44,7 @@ Setting up a hacking lab is essential for anyone looking to develop ethical hack
    ```
 
 ### Step 3: Set Up Vulnerable Machines
-![Vulnerable Machines Setup](https://sourceforge.net/p/metasploitable/wiki/Home/_discuss/metasploitable.jpg)
+![Vulnerable Machines Setup](https://www.hackthebox.com/storage/blog/Pq4v7ZJdd17oPm0fF6NUKV3LhzoPwx08.jpg)
 1. Download [**Metasploitable 2**](https://sourceforge.net/projects/metasploitable/).
 2. Download [**DVWA**](https://github.com/digininja/DVWA) and set it up on an **Apache/MySQL environment**.
 3. Configure your network settings in VirtualBox/VMware to use **Host-Only Network** so your machines can communicate securely.
